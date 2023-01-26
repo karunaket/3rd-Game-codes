@@ -21,7 +21,7 @@ public class PlayerController : MonoBehaviour
         animate = gameObject.GetComponent<Animator>();
 
         moveSpeed = 2.5f;
-        jumpForce = 60f;
+        jumpForce = 70f;
         isJumping = false;
     }
 
